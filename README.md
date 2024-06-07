@@ -8,6 +8,13 @@
 - **Multi-threading & Multiprocessing**: Efficient handling of file operations and PDF page counting to speed up the process.
 - **Excel Reporting**: Save the results, including errors, to an Excel file for further analysis.
 
+## Screenshot
+
+![PDF Page Counter Screenshot](Screenshots/PDF_page_counter.png)
+
+*Figure 1: User-friendly interface showing folder selection, progress indicators, and results display.*
+
+
 ## Installation
 
 1. **Clone the Repository**:
